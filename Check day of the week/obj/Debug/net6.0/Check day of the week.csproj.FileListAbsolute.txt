@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\bin\Debug\net6.0\Check day of the week.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\bin\Debug\net6.0\Check day of the week.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\bin\Debug\net6.0\Check day of the week.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\bin\Debug\net6.0\Check day of the week.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\bin\Debug\net6.0\Check day of the week.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\Check day of the week.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\Check day of the week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\Check day of the week.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\Check day of the week.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\Check day of the week.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\Check day of the week.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\refint\Check day of the week.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\Check day of the week.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\Check day of the week.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Check day of the week\obj\Debug\net6.0\ref\Check day of the week.dll
