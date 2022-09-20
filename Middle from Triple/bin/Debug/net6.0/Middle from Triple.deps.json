@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Middle from Triple/1.0.0": {
+        "runtime": {
+          "Middle from Triple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Middle from Triple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

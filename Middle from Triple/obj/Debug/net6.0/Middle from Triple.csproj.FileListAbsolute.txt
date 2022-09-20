@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\bin\Debug\net6.0\Middle from Triple.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\bin\Debug\net6.0\Middle from Triple.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\bin\Debug\net6.0\Middle from Triple.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\bin\Debug\net6.0\Middle from Triple.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\bin\Debug\net6.0\Middle from Triple.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\Middle from Triple.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\Middle from Triple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\Middle from Triple.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\Middle from Triple.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\Middle from Triple.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\Middle from Triple.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\refint\Middle from Triple.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\Middle from Triple.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\Middle from Triple.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Middle from Triple\obj\Debug\net6.0\ref\Middle from Triple.dll
