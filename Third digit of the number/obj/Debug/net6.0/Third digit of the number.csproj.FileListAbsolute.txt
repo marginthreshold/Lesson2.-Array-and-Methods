@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\bin\Debug\net6.0\Third digit of the number.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\bin\Debug\net6.0\Third digit of the number.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\bin\Debug\net6.0\Third digit of the number.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\bin\Debug\net6.0\Third digit of the number.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\bin\Debug\net6.0\Third digit of the number.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\Third digit of the number.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\Third digit of the number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\Third digit of the number.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\Third digit of the number.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\Third digit of the number.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\Third digit of the number.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\refint\Third digit of the number.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\Third digit of the number.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\Third digit of the number.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson2. Arrays and Methods\Third digit of the number\obj\Debug\net6.0\ref\Third digit of the number.dll
